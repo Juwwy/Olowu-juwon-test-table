@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+
+}
+
+body{
+    width: 960px;
+    margin: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+table {
+    padding-right: 50px;
+    border: 1px rgb(19, 18, 18) dashed;
+    margin: 50px;
+    width: 400px;
+    border-collapse: collapse;
+    position: absolute;
+    right:500px;
+    
+    
+}
+
+tr th, td {
+    border: 1px rgb(19, 18, 18) dashed;
+    padding: 10px;
+
+}
